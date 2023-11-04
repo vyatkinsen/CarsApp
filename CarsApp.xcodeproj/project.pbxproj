@@ -14,6 +14,7 @@
 		596442972AF54AC60078AEF0 /* CarsApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 596442952AF54AC60078AEF0 /* CarsApp.xcdatamodeld */; };
 		596442992AF54AC70078AEF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 596442982AF54AC70078AEF0 /* Assets.xcassets */; };
 		5964429C2AF54AC70078AEF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5964429A2AF54AC70078AEF0 /* LaunchScreen.storyboard */; };
+		59ED779E2AF696B5007DAA6B /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 59ED779D2AF696B5007DAA6B /* data.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		596442982AF54AC70078AEF0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5964429B2AF54AC70078AEF0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5964429D2AF54AC70078AEF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		59ED779D2AF696B5007DAA6B /* data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = data.plist; path = "../../../Downloads/07. Изучаем основы Core Data (Swift 5)/code/MyCars/MyCars/data.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				596442982AF54AC70078AEF0 /* Assets.xcassets */,
 				5964429A2AF54AC70078AEF0 /* LaunchScreen.storyboard */,
 				5964429D2AF54AC70078AEF0 /* Info.plist */,
+				59ED779D2AF696B5007DAA6B /* data.plist */,
 				596442952AF54AC60078AEF0 /* CarsApp.xcdatamodeld */,
 			);
 			path = CarsApp;
@@ -130,6 +133,7 @@
 			files = (
 				5964429C2AF54AC70078AEF0 /* LaunchScreen.storyboard in Resources */,
 				596442992AF54AC70078AEF0 /* Assets.xcassets in Resources */,
+				59ED779E2AF696B5007DAA6B /* data.plist in Resources */,
 				596442942AF54AC60078AEF0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
